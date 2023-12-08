@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bienvbag 
 - 👀 I’m interested in ...Technology, especially electronics 
 - 🌱 I’m currently learning ...Electronics 
-- 💞️ I’m looking to collaborate on ...google
+- 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...
 
 <!---
